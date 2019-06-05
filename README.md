@@ -1,0 +1,1 @@
+# dockerfile-schema-registry
